@@ -47,6 +47,5 @@ Random Forest and XgBoost performed best with an F1 score of 0.98 and 0.91 respe
 
 <strong>Furtherwork: </strong>
 
-Overfitting to check for bias and “generalization error" error.
+To test the model for overfitting.This will help check for bias and “generalization error".
  
-
